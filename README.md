@@ -2,7 +2,7 @@
 
 # :sparkles: ¡Bienvenido a mi repositorio Java! :sparkles:
 
-## :student: Sobre mí
+## :octocat: Sobre mí
 Soy una estudiante de Diseño de Aplicaciones Multiplataforma que está empezando en el mundo de la programación. Este repositorio es donde voy subiendo mis pequeños proyectos, ejercicios y prácticas en Java. Cada uno forma parte de mi aprendizaje y mejora constante.
 
 ## :coffee: ¿Qué encontrarás aquí?
